@@ -28,4 +28,5 @@ const blogData = {
   ],
 };
 
+export {posts, name}
 export default blogData;
